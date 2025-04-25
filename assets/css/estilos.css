@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+.bg-ricomida {
+    background-color: #373a3c;
+}
+
+.navbar-brand {
+    color: var(--white);
+    font-family:lobster;
+}
