@@ -10,3 +10,14 @@
     color: var(--white);
     font-family:lobster;
 }
+
+.small-image {
+    width: 250px;
+    height:auto
+}
+footer {
+    font-family: lobster;
+    background-color:#373a3c;
+    color: white;
+    align-items: center;
+}
