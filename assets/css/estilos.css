@@ -12,8 +12,9 @@
 }
 
 .small-image {
-    width: 230px;
-    height:auto
+    width: 20%;
+    height:auto;
+    
 }
 footer {
     font-family: lobster;
@@ -21,3 +22,7 @@ footer {
     color: white;
     align-items: center;
 }
+
+
+   
+ 
